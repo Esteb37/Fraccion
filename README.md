@@ -10,8 +10,7 @@
 
 -----------------------------------------------------------
 
-## NOTA Esta versión únicamente trabaja con archivos CSV que siguen el
-            siguiente formato de filas, columnas y fracciones
+## NOTA Esta versión únicamente trabaja con archivos CSV que siguen el siguiente formato de filas, columnas y fracciones
 
                         1/2,1/2,1/2
                         1/2,1/2,1/2
