@@ -4,9 +4,9 @@
 
 ---------------------------------------------------------------
   
-  @Autor: Esteban Padilla Cerdio
-  @Fecha de creación: 07/01/2021
-  @Última modificación: 10/01/2021
+  ###Autor: Esteban Padilla Cerdio
+  ###Fecha de creación: 07/01/2021
+  ###Última modificación: 10/01/2021
 
 -----------------------------------------------------------
 
